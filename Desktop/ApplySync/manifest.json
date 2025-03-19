@@ -1,14 +1,14 @@
 {
    "manifest_version": 3,
-   "name": "SpeedyApply: Job Application Autofill Tool",
-   "short_name": "SpeedyApply",
+   "name": "ApplySync: Job Application Autofill Tool",
+   "short_name": "ApplySync",
    "version": "2.13.1",
    "description": "Applying to jobs just got easier. Automate job applications with a single click and track your progress over time.",
-   "author": "kirk@speedyapply.com",
-   "homepage_url": "https://speedyapply.com",
+   "author": "kirk@applysync.com",
+   "homepage_url": "https://applysync.com",
    "action": {
       "default_popup": "popup.html",
-      "default_title": "SpeedyApply: Job Application Autofill Tool"
+      "default_title": "ApplySync: Job Application Autofill Tool"
    },
    "background": {
       "service_worker": "background.js"
